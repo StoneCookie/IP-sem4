@@ -7,8 +7,7 @@ SECRET_KEY = 'ibzeid3!4d3un-k5u1y$gbv*coxlh6qk$-yfqk-tz&vgnjmivn'
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
-# 'eng-project-3sem.std-928.ist.mospolytech.ru'
+ALLOWED_HOSTS = ['http://ip-sem4.std-928.ist.mospolytech.ru']
 
 INSTALLED_APPS = [
     'main',
