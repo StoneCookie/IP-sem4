@@ -28,8 +28,8 @@
 * [Сторона клиента](http://ip-sem4-front.std-928.ist.mospolytech.ru/)
 * [Сторона сервера](http://ip-sem4.std-928.ist.mospolytech.ru)
 * [Лендинг](http://ip-sem4-landing.std-928.ist.mospolytech.ru)
-* [Макеты в Figma]()
-* [Документация + видео презентация]()
+* [Макеты в Figma](https://clck.ru/WB7VQ)
+* [Документация + видео презентация](https://clck.ru/WB7XL)
 
 ## Информация о разработчике
 | Учебная группа | Имя пользователя |       ФИО       |
